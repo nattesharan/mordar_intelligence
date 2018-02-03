@@ -1,9 +1,6 @@
 {
-  "name": "@coreui/react",
+  "name": "mordar_intelligence",
   "version": "1.0.9",
-  "description": "Open Source Bootstrap Admin Template",
-  "author": "Łukasz Holeczek",
-  "homepage": "http://coreui.io",
   "copyright": "Copyright 2017 creativeLabs Łukasz Holeczek",
   "license": "MIT",
   "private": true,
